@@ -1,3 +1,4 @@
+<
 # Monte Carlo π — Parallel Computation
 
 Обчислення числа π методом Монте-Карло з паралельними потоками.
@@ -31,3 +32,6 @@ N,M,pi_estimate,time_seconds
 - Python GIL обмежує реальний паралелізм CPU-потоків — `ThreadPoolExecutor` дає виграш переважно при малих N.
 - Запуск із великими N (≥ 10B) при M=1 займає значний час.
 - Генератор псевдовипадкових чисел — стандартний `random.Random()`, не криптографічний.
+=======
+# #Karina_Medvedieva_KI-43-homework-2
+tg: kerinsesss >>>>>>> main
